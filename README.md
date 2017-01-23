@@ -1,4 +1,4 @@
-# 15-google-maps-intro
+# Google Maps API tutorial
 Introductory Google Maps Tutorial
 
 Clone this repository, and follow along by adding these into the existing code base:  
